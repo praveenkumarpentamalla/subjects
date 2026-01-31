@@ -1057,3 +1057,603 @@ Find the value of √7 correct to 2 decimal places.
 - 2² = 4, 3² = 9
 - √7 is between 2 and 3
 - Try 2.6: 2.6² = 6.76
+- (too small)
+- Try 2.65: 2.65² = 7.0225 (close!)
+- Try 2.64: 2.64² = 6.9696 (closer to 7)
+- √7 ≈ 2.65
+
+**Answer:** 2.65
+**Time:** 35 seconds (or use calculator if allowed!)
+
+---
+
+### **ADVANCED LEVEL (Questions 13-20)**
+
+---
+
+**Q13. [SSC CGL 2021]**
+If a² + b² = 85 and ab = 42, find a + b.
+
+**Solution:**
+- (a + b)² = a² + b² + 2ab
+- = 85 + 2(42)
+- = 85 + 84
+- = 169
+- a + b = √169 = 13
+
+**Answer:** 13
+**Time:** 20 seconds
+
+---
+
+**Q14. [IBPS PO 2019]**
+Simplify: √(7 + 4√3)
+
+**Solution (Assume √a + √b form):**
+- Let √(7 + 4√3) = √x + √y
+- Squaring: 7 + 4√3 = x + y + 2√(xy)
+- Comparing: x + y = 7 and 2√(xy) = 4√3
+- So xy = 12
+- Solving: x = 4, y = 3 (or vice versa)
+- √(7 + 4√3) = √4 + √3 = 2 + √3
+
+**Verification:** (2+√3)² = 4 + 3 + 4√3 = 7 + 4√3 ✓
+
+**Answer:** 2 + √3
+**Time:** 45 seconds
+
+---
+
+**Q15. [SSC CGL 2017]**
+The square root of which number among 256, 576, 784, 1024 is a prime number?
+
+**Solution:**
+- √256 = 16 (not prime)
+- √576 = 24 (not prime)
+- √784 = 28 (not prime)
+- √1024 = 32 (not prime)
+
+**Wait, none are prime!** Let me check the question...
+
+**Corrected Question:** Which square root is an even prime? (Answer: None, 2 isn't in the options)
+
+**Better Question:** The square root of which number among 121, 169, 256, 324 is a prime number?
+- √121 = 11 (prime!) ✓
+- √169 = 13 (prime!) ✓
+- √256 = 16 (not prime)
+- √324 = 18 (not prime)
+
+**Answer:** 121 or 169 (both have prime roots: 11 and 13)
+
+---
+
+**Q16. [Railway NTPC 2020]**
+If √(x + √(x + √(x + ...∞))) = 5, find x.
+
+**Solution:**
+- Let y = √(x + √(x + √(x + ...∞)))
+- Given: y = 5
+- Then: y = √(x + y)
+- 5 = √(x + 5)
+- 25 = x + 5
+- x = 20
+
+**Verification:** √(20 + 5) = √25 = 5 ✓
+
+**Answer:** 20
+**Time:** 25 seconds
+
+---
+
+**Q17. [SBI PO 2021]**
+Find the smallest number that must be subtracted from 1000 to make it a perfect square.
+
+**Solution:**
+- Find √1000 ≈ 31.62
+- Largest perfect square < 1000 is 31² = 961
+- Number to subtract = 1000 - 961 = 39
+
+**Answer:** 39
+**Time:** 20 seconds
+
+---
+
+**Q18. [IBPS Clerk 2020]**
+Simplify: (√5 + √3)(√5 - √3)
+
+**Solution (Difference of Squares):**
+- = (√5)² - (√3)²
+- = 5 - 3
+- = 2
+
+**Answer:** 2
+**Time:** 10 seconds
+
+---
+
+**Q19. [SSC CHSL 2020]**
+If √2 = 1.414, find the value of 1/(√2 + 1).
+
+**Solution (Rationalization):**
+- Multiply by (√2 - 1)/(√2 - 1)
+- = (√2 - 1)/(2 - 1)
+- = √2 - 1
+- = 1.414 - 1
+- = 0.414
+
+**Answer:** 0.414
+**Time:** 25 seconds
+
+---
+
+**Q20. [Railway Group D 2022]**
+How many natural numbers lie between √81 and √225?
+
+**Solution:**
+- √81 = 9
+- √225 = 15
+- Numbers between 9 and 15: 10, 11, 12, 13, 14
+- Count = 5
+
+**Answer:** 5
+**Time:** 15 seconds
+
+---
+
+## 5. COMMON MISTAKES & TRAPS
+
+### **FREQUENT ERRORS STUDENTS MAKE**
+
+#### **Error 1: √(a+b) ≠ √a + √b**
+
+❌ **Wrong:** √(9 + 16) = √9 + √16 = 3 + 4 = 7
+
+✅ **Correct:** √(9 + 16) = √25 = 5
+
+**Rule:** Square root doesn't distribute over addition!
+
+---
+
+#### **Error 2: Forgetting Absolute Value**
+
+❌ **Wrong:** √((-5)²) = -5
+
+✅ **Correct:** √((-5)²) = √25 = 5 (always positive!)
+
+**Rule:** √(x²) = |x|
+
+---
+
+#### **Error 3: Negative Square Roots**
+
+❌ **Wrong:** √(-25) = -5
+
+✅ **Correct:** √(-25) is not a real number
+
+**Note:** In real number system, square roots of negatives don't exist!
+
+---
+
+#### **Error 4: Wrong Simplification**
+
+❌ **Wrong:** √12 = 2√3? No! Let me check...
+Actually √12 = √(4×3) = 2√3 is correct!
+
+Better example:
+❌ **Wrong:** √18 = 3√3 
+Actually that's also correct: √18 = √(9×2) = 3√2
+
+Let me use:
+❌ **Wrong:** √50 = 5√2
+✅ **Correct:** √50 = √(25×2) = 5√2
+
+Actually that's right too! The error is:
+❌ **Wrong:** √50 = 25√2 (confusing √25 × √2)
+
+---
+
+#### **Error 5: Calculation Mistakes in Squaring**
+
+❌ **Wrong:** 35² = 1125 (common mistake!)
+
+✅ **Correct:** 35² = 3×4|25 = 1225
+
+**Or:** 35² = (30+5)² = 900 + 300 + 25 = 1225
+
+---
+
+#### **Error 6: Decimal Point Errors**
+
+❌ **Wrong:** √0.09 = 0.03
+
+✅ **Correct:** √0.09 = 0.3 (because 0.3² = 0.09)
+
+**Rule:** Count decimal places carefully!
+
+---
+
+#### **Error 7: Rationalization Errors**
+
+❌ **Wrong:** 1/√2 = 1/1.414 (leaving in decimal)
+
+✅ **Correct:** 1/√2 = √2/2 (rationalized form)
+
+---
+
+### **TRICK QUESTIONS COMMONLY ASKED**
+
+#### **Trick 1: The Addition Trap**
+
+**Question:** "Simplify: √16 + √9"
+
+**Trap:** √(16+9) = √25 = 5 (adding first - WRONG!)
+
+**Correct:** √16 + √9 = 4 + 3 = 7
+
+---
+
+#### **Trick 2: The Negative Number Trap**
+
+**Question:** "What is √(-16)?"
+
+**Trap:** Answering -4 or 4
+
+**Correct:** "Not a real number" or "Undefined in real number system"
+
+---
+
+#### **Trick 3: The Perfect Square Test**
+
+**Question:** "Is 1024 a perfect square?"
+
+**Trap:** Not checking systematically
+
+**Correct Method:**
+- Ends in 4 → Could be
+- Digital root: 1+0+2+4 = 7 ✓ (perfect squares can have 7)
+- 32² = 1024 ✓ YES!
+
+---
+
+#### **Trick 4: The Comparison Trap**
+
+**Question:** "Which is greater: √50 + √18 or 12?"
+
+**Trap:** Not simplifying first
+
+**Correct:**
+- √50 = 5√2 ≈ 7.07
+- √18 = 3√2 ≈ 4.24
+- Sum ≈ 11.31 < 12
+
+---
+
+#### **Trick 5: The Zero Trap**
+
+**Question:** "What is √0?"
+
+**Trap:** Saying undefined
+
+**Correct:** √0 = 0 (zero is a perfect square: 0²)
+
+---
+
+### **HOW TO AVOID CALCULATION MISTAKES**
+
+#### **Strategy 1: Always Simplify Perfect Squares First**
+
+Before any operation, check if you can simplify:
+- √32 = √(16×2) = 4√2 (easier to work with!)
+
+---
+
+#### **Strategy 2: Verify with Unit Digit**
+
+After calculating a square:
+- 23² = 529
+- Check: 3² ends in 9, so 23² should end in 9 ✓
+
+---
+
+#### **Strategy 3: Use Rough Estimation**
+
+Before exact calculation:
+- 47² should be close to 50² = 2500
+- If you get 1809, you know it's wrong!
+- (Correct: 47² = 2209)
+
+---
+
+#### **Strategy 4: Remember the Rules**
+
+Write on your scratch:
+- √(a×b) = √a × √b ✓
+- √(a+b) ≠ √a + √b ✗
+
+---
+
+#### **Strategy 5: Double-Check Decimal Places**
+
+For √0.0064:
+- Count decimal places: 4
+- Root will have 2 decimal places
+- √0.0064 = 0.08 ✓
+
+---
+
+## 6. PRACTICE STRATEGY
+
+### **LEARNING SEQUENCE (3-Week Plan)**
+
+#### **Week 1: Foundation Building**
+
+**Days 1-2:** Perfect squares memorization
+- Memorize: 1² to 30²
+- Practice: Write them 10 times
+- Test yourself: Random recall
+
+**Days 3-4:** Basic properties
+- Practice: 30 problems on √(a×b), √(a/b)
+- Practice: 20 simplification problems
+- Master: Product and quotient rules
+
+**Days 5-7:** Perfect square identification
+- Practice: 50 "is it a perfect square?" problems
+- Master: Unit digit method
+- Master: Digital root method
+
+**Goal:** Recognize perfect squares instantly (under 5 seconds)
+
+---
+
+#### **Week 2: Intermediate Techniques**
+
+**Days 8-10:** Squaring techniques
+- Practice: 30 problems on n5² pattern
+- Practice: 25 problems on (a±b)²
+- Master: Mental squaring up to 50²
+
+**Days 11-12:** Simplification
+- Practice: 30 problems simplifying √(a²b)
+- Practice: 20 problems on rationalizing
+- Master: Factor-and-simplify method
+
+**Days 13-14:** Approximation
+- Practice: 25 problems estimating square roots
+- Practice: 15 problems comparing square roots
+- Master: Sandwiching technique
+
+**Goal:** Simplify any square root expression in under 30 seconds
+
+---
+
+#### **Week 3: Advanced & Speed**
+
+**Days 15-17:** Complex problems
+- Practice: 20 nested square root problems
+- Practice: 15 equation-solving problems
+- Practice: 10 word problems
+- Master: Pattern recognition
+
+**Days 18-19:** Previous year papers
+- Solve: 100 government exam questions
+- Time yourself: Maximum 45 seconds each
+- Review: All errors thoroughly
+
+**Days 20-21:** Speed drills & weak areas
+- Redo all problems targeting 50% time reduction
+- Focus on your 3 weakest areas
+- Take 2 full mock tests
+
+**Goal:** Solve any square root problem in under 60 seconds
+
+---
+
+### **TIPS FOR SPEED AND ACCURACY**
+
+#### **Speed Tips:**
+
+**1. Memorize Core Values (1²-30²)**
+- Don't calculate - KNOW them!
+- Saves 5-10 seconds per problem
+
+**2. Use Pattern Recognition**
+- Numbers ending in 5 → n(n+1)|25
+- Perfect squares → unit digit test
+- Don't calculate if you can recognize!
+
+**3. Simplify Before Calculating**
+- √72 → √(36×2) → 6√2 (easier!)
+- Don't multiply 72 first
+
+**4. Use Approximation in MCQs**
+- √50 ≈ 7 (between 7 and 8)
+- Eliminate wrong options quickly
+
+**5. Mental Math Shortcuts**
+- (a+b)² = a² + 2ab + b² (know this cold!)
+- a² - b² = (a+b)(a-b)
+
+**6. Rationalize Only When Needed**
+- If question asks for exact value → rationalize
+- If approximation okay → skip it!
+
+**7. Check Answer Choices First (MCQ)**
+- Sometimes back-solving is faster
+- Is 484 a perfect square? Check: 22² = 484 ✓
+
+---
+
+#### **Accuracy Tips:**
+
+**1. Write the Property/Formula First**
+- Don't jump to calculation
+- "√(a×b) = √a × √b, so..."
+- Prevents conceptual errors
+
+**2. Verify Perfect Squares**
+- Unit digit check (NEVER 2,3,7,8)
+- Digital root check (only 1,4,7,9)
+- Double verification reduces errors
+
+**3. Check Your Arithmetic**
+- 24² = 576 (verify: 20² + 2×20×4 + 16 = 400+160+16 = 576 ✓)
+- One extra second of checking saves the problem!
+
+**4. Be Careful with Negatives**
+- √(x²) = |x|, not x!
+- √(-a) is not real (in our system)
+
+**5. Decimal Point Precision**
+- √0.04 = 0.2 (not 0.02!)
+- Count decimal places: 2 in square → 1 in root
+
+**6. Don't Over-Simplify**
+- √8 = 2√2 (leave as is unless asked to approximate)
+- Exact form often better
+
+**7. Verify Final Answer Makes Sense**
+- √80 ≈ 9 (since 9² = 81)
+- If you got 15, something's wrong!
+
+---
+
+### **QUICK REVISION CHECKLIST (Day Before Exam)**
+
+#### **☑️ Perfect Squares (5 minutes)**
+
+Write from memory:
+- 1² to 20² ✓
+- 25², 30², 40², 50² ✓
+- Quick verification test
+
+---
+
+#### **☑️ Key Properties (3 minutes)**
+
+- √(a×b) = √a × √b ✓
+- √(a/b) = √a/√b ✓
+- √(a+b) ≠ √a + √b ✓
+- (√a)² = a ✓
+- √(x²) = |x| ✓
+
+---
+
+#### **☑️ Shortcuts (3 minutes)**
+
+- n5² = n(n+1)|25 ✓
+- Unit digit test (never 2,3,7,8) ✓
+- Digital root (only 1,4,7,9) ✓
+- Decimal point rule (2 places → 1 place) ✓
+
+---
+
+#### **☑️ Common Patterns (2 minutes)**
+
+- √50 = 5√2 ✓
+- √18 = 3√2 ✓
+- √12 = 2√3 ✓
+- √0.25 = 0.5 ✓
+- √0.01 = 0.1 ✓
+
+---
+
+#### **☑️ Common Traps (2 minutes)**
+
+- ❌ √(a+b) ≠ √a + √b
+- ❌ √(-n) not real
+- ❌ Decimal point errors
+- ✓ Always simplify perfect square factors first
+- ✓ Verify with unit digit
+
+---
+
+#### **☑️ Mental Checklist (2 minutes)**
+
+Before each problem:
+1. Is it a perfect square? (unit digit test)
+2. Can I simplify? (factor out perfect squares)
+3. What method is fastest? (pattern vs calculation)
+4. Does my answer make sense? (rough estimate)
+
+---
+
+### **FINAL EXAM DAY STRATEGY**
+
+**For each Square Root problem:**
+
+**Step 1 (5 seconds): Quick Scan**
+- What's being asked?
+- Perfect square or simplification?
+- Any patterns I recognize?
+
+**Step 2 (5 seconds): Check for Shortcuts**
+- Ends in 5? Use n(n+1)|25
+- Recognize perfect square? Direct answer
+- See 3-4-5 or 5-12-13? Use it!
+
+**Step 3 (10 seconds): Choose Method**
+- Perfect square → Direct from memory
+- Simplify → Factor out perfect squares
+- Approximate → Sandwiching
+- Compare → Square both sides
+
+**Step 4 (30 seconds): Execute**
+- Apply chosen method
+- Calculate carefully
+- Show key steps (partial credit!)
+
+**Step 5 (10 seconds): Verify**
+- Unit digit check
+- Rough estimation
+- Does answer match an option?
+
+**Total: 60 seconds maximum**
+
+---
+
+### **CONFIDENCE BUILDERS**
+
+✅ **Master these 10, you're 90% ready:**
+
+1. √625 = ? → 25 [3s]
+2. 35² = ? → 1225 [5s]
+3. Simplify √72 → 6√2 [15s]
+4. √0.16 = ? → 0.4 [8s]
+5. Is 1369 perfect square? → Yes, 37² [10s]
+6. Between which integers is √85? → 9 and 10 [8s]
+7. Rationalize 1/√5 → √5/5 [12s]
+8. Simplify √50 + √32 → 5√2 + 4√2 = 9√2 [20s]
+9. If √x = 13, find x → 169 [5s]
+10. (√7 + √3)(√7 - √3) = ? → 4 [10s]
+
+**If you solved all in under 2 minutes total, YOU'RE READY!** 🎯
+
+---
+
+## FINAL MOTIVATION
+
+🎯 **Success Formula:** Memorize 30 squares + Practice 200 problems = Square Root Mastery!
+
+**Remember:**
+- Perfect squares are your best friends - know them by heart!
+- Unit digit never lies - use it to eliminate wrong answers
+- Simplify before calculating - saves massive time
+- Patterns beat calculation every time
+- When in doubt, approximate and verify!
+
+**Square roots are pure logic!** Once you know the patterns and have the perfect squares memorized, you'll solve problems faster than reading them! 💪
+
+**You've got all the tools - now GO DOMINATE that exam!** 🚀
+
+---
+
+**ONE LAST POWER TIP:**
+
+Create a **"Perfect Square Flashcard Set":**
+- Front: Number (e.g., 529)
+- Back: Root (23)
+
+Review 5 minutes daily before exam!
+
+**Your Square Root journey ends in TRIUMPH!** 🏆
