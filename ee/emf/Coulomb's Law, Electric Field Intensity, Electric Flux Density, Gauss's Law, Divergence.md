@@ -1,14 +1,3 @@
-This is a complete, structured study material formatted as a PDF book. It covers the entire syllabus of **"Coulomb's Law, Electric Field Intensity, Electric Flux Density, Gauss's Law, Divergence"** from absolute beginner to advanced level, tailored for GATE, UPSC, and Telangana State Engineering Exams.
-
----
-
-# ELECTROSTATICS MASTERY
-### A Complete Study Guide for GATE, UPSC, TSSPDCL & TSNPDCL
-
-**Author:** Senior Subject Professor & Exam Expert
-**Edition:** First Edition
-
----
 
 ## Table of Contents
 
