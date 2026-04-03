@@ -1,7 +1,3 @@
-This is a complete, structured study material designed as a PDF book. It covers the entire syllabus of "Linear Algebra: Matrix Algebra, Systems of Linear Equations, Eigenvalues, Eigenvectors" from absolute beginner to advanced level, tailored for GATE, UPSC, and Telangana State Engineering Exams.
-
----
-
 # LINEAR ALGEBRA MASTERY
 ### A Complete Study Guide for GATE, UPSC, TSSPDCL & TSNPDCL
 
